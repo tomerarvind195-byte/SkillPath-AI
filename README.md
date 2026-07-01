@@ -184,11 +184,11 @@ with recommended courses in order
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Improvements ----
 
 - [ ] **User Profiles** — Save assessment history and track progress
 - [ ] **Django Backend** — Add Python/Django API for persistent data storage
-- [ ] **MySQL Database** — Store user assessments and course data
+- [ ] **MySQL Database** — Stor8e user assessments and course data
 - [ ] **More Domains** — Add Cloud Computing, DevOps, Mobile Development
 - [ ] **Progress Tracker** — Mark courses as completed and track learning journey
 - [ ] **Dark Mode** — Toggle between light and dark themes
