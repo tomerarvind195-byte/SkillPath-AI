@@ -13,7 +13,7 @@
 
 ## 🔗 Live Demo
 
-> 🌐 **[Add your deployed link here]** ← (Vercel / Netlify pe deploy karo — free & instant!)
+> 🌐 **[Add your deployed link here]** 
 
 ---
 
