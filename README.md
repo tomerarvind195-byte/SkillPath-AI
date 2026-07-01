@@ -224,11 +224,11 @@ npm run build
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/new-domain`)
-3. Add your changes
-4. Commit (`git commit -m 'Add Data Science domain questions'`)
-5. Push and open a Pull Request
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-domain`).
+3. Add your changes.
+4. Commit (`git commit -m 'Add Data Science domain questions'`).
+5. Push and open a Pull Request.
 
 ---
 
