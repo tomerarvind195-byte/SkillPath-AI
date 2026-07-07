@@ -19,7 +19,6 @@
 
 ## 📸 Screenshots
 
-> _(Screenshots yahan add karo — Home, Skill Assessment, Course Results page)_
 
 | Home Page | Skill Assessment | Course Recommendations |
 |-----------|-----------------|----------------------|
