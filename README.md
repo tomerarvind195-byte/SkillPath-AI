@@ -216,6 +216,9 @@ vercel
 # Build the project
 npm run build
 
+# For run the program
+npm run dev
+
 # Drag & drop the 'dist' folder to netlify.com/drop
 # Done! Your site is live.
 ```
