@@ -31,7 +31,7 @@
 **SkillPath AI** is a modern, AI-powered skill assessment and course recommendation platform built with React and Vite. Users answer a quick skill assessment, and the platform intelligently recommends the most relevant courses and learning paths based on their current skill level and career goals.
 In this we add multiple features in upcoming days .
 
-**Inspired by:** Platforms like Coursera, Udemy, and LinkedIn Learning — but smarter, with personalized AI-driven recommendations.
+**Inspired by:** Platforms like Coursera, Udemy, and LinkedIn Learning — but smarter, with personalized AI-driven recommendations. we add search and find solution like chatgpt and Gemini other  some features 
 
 **Key Highlights:**
 - Interactive skill assessment quiz covering multiple domains
