@@ -238,7 +238,7 @@ npm run dev
 ## 👨‍💻 Author
 
 **Arvind Kumar**
-3rd Year B.Tech IT Student | Aspiring Software Engineer
+3rd Year B.Tech IT Student | Aspiring Software Engineer/ web developer 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arvind-kumar-399a60338)
 - 💻 [GitHub](https://github.com/tomerarvind195-byte)
