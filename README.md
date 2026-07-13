@@ -22,7 +22,7 @@
 
 | Home Page | Skill Assessment | Course Recommendations |
 |-----------|-----------------|----------------------|
-| ![Home](screenshots/home.png) | ![Assessment](screenshots/assessment.png) | ![Results](screenshots/results.png) |
+| ![Home]| ![Assessment] | ![Results] |
 
 ---
 
